@@ -1,5 +1,3 @@
-# Enterprise Risk Analytics Dashboard
-
 ## Overview
 
 # Business Problem
