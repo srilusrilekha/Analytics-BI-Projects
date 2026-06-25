@@ -45,9 +45,29 @@ Helps operations teams identify underperforming locations and prioritize improve
 
 ---
 
-## 3. Critical Site Monitoring
+## 5. BTS Daily Monitoring Report
 
-**File:** `03_Critical_Sites_Overview.png`
+**File:** `05_BTS_Daily_Report.png`
+
+### Purpose
+
+Provides a daily operational monitoring view of network uptime and utilization metrics to support proactive infrastructure health monitoring.
+
+### Key Features
+
+* Daily and cumulative uptime tracking
+* Peak receive and transmit utilization monitoring
+* Category-wise performance comparison
+* Interactive filtering by country, category, node, and date range
+* Daily operational KPI reporting
+
+### Business Value
+
+Enables operations teams to quickly identify performance deviations, monitor network health, and support daily operational reviews through a centralized monitoring dashboard.
+
+## 4. Critical Site Monitoring
+
+**File:** `04_Critical_Sites_Overview.png`
 
 ### Purpose
 
@@ -65,9 +85,9 @@ Supports proactive monitoring and prioritization of high-impact locations.
 
 ---
 
-## 4. Detailed Site Performance Analysis
+## 5. Detailed Site Performance Analysis
 
-**File:** `04_Drillthrough_Details.png`
+**File:** `05_Drillthrough_Details.png`
 
 ### Purpose
 
@@ -92,7 +112,7 @@ One of the key features of this solution is the ability to navigate from summary
 
 ## Step 1 – Select Site and Click "Show Details"
 
-**File:** `03_Critical_Sites_Overview_Annotated.png`
+**File:** `04_Critical_Sites_Overview_Annotated.png`
 
 Users can select a site and access detailed performance information through an interactive drill-through action.
 
@@ -100,7 +120,7 @@ Users can select a site and access detailed performance information through an i
 
 ## Step 2 – Detailed Analysis Opens
 
-**File:** `04_Details_Popup_Annotated.png`
+**File:** `05_Drillthrough_Details.png`
 
 The drill-through page provides:
 
@@ -112,28 +132,6 @@ The drill-through page provides:
 ### Business Value
 
 This capability reduces investigation time by allowing users to seamlessly transition from executive summaries to detailed operational data.
-
----
-
-## 5. Critical Site Monitoring
-
-**File:** `03_Critical_Sites_Overview.png`
-
-### Purpose
-
-Provides a daily operational view of network health and utilization across monitored categories, helping teams quickly identify performance issues and track uptime compliance.
-
-### Key Features
-
-* Daily and cumulative uptime monitoring
-* Peak receive and transmit utilization tracking
-* Category-wise performance comparison
-* Interactive filtering by country, category, node, and date range
-* Conditional status indicators for operational monitoring
-
-### Business Value
-
-Enables operations teams to monitor service availability, identify network bottlenecks, and ensure performance targets are consistently met.
 
 ---
 
@@ -156,3 +154,7 @@ Enables operations teams to monitor service availability, identify network bottl
 * DAX
 * Data Modeling
 * Interactive Visualizations
+
+## **Confidentiality Notice:** 
+Client logos, sensitive operational data, and proprietary information have been intentionally obscured to protect client confidentiality. The dashboard screenshots are presented for portfolio purposes to showcase Power BI reporting, visualization, and analytics capabilities.
+
