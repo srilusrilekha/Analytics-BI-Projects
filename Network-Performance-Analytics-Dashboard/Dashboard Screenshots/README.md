@@ -47,7 +47,7 @@ Helps operations teams identify underperforming locations and prioritize improve
 
 ## 3. BTS Daily Monitoring Report
 
-**File:** `03_BTS_Daily_Report.png`
+**File:** `03_Adhoc_Report.png`
 
 ### Purpose
 
