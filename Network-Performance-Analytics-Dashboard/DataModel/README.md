@@ -39,6 +39,31 @@ Provides a high-level representation of the reporting model used to support mult
 * Designed to support cross-functional reporting and drill-through analysis.
 * Simplified for easier understanding of the overall solution architecture.
 
+### Modeling Approach
+
+This solution utilizes a **Hybrid Data Model** combining both Star and Snowflake design principles.
+
+#### Why a Hybrid Model?
+
+The reporting solution supports multiple operational domains, including:
+
+* Network Performance
+* Device Inventory
+* Incident Management
+* Change Management
+* Problem Management
+* SLA Monitoring
+
+A hybrid approach was adopted to:
+
+* Support multiple fact tables across different business processes.
+* Enable shared dimensions such as Date, Location, Node, and Assignment Group.
+* Improve model reusability across multiple dashboards.
+* Maintain reporting performance while reducing data redundancy.
+* Provide a scalable foundation for future reporting requirements.
+
+This design enables a single Power BI semantic model to support multiple operational dashboards while ensuring consistency, flexibility, and maintainability.
+
 ---
 
 ## 3. Original Data Model (Sanitized)
