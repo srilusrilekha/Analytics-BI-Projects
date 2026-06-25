@@ -1,4 +1,4 @@
-# Enterprise Network Operations Analytics Dashboard
+# Network Operations Analytics Dashboard
 
 ## Project Overview
 
