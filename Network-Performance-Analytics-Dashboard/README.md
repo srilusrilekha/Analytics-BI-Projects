@@ -174,19 +174,17 @@ I was involved throughout the end-to-end development lifecycle of the reporting 
 
 Responsibilities included:
 
-* Business requirement analysis
-* Metrics identification and validation
-* SQL query development
-* Data extraction from Azure SQL Database
-* Power Query transformations
-* Data modeling and relationship design
-* DAX measure development
-* Interactive dashboard development
-* Visualization design and optimization
-* Dataflow implementation and refresh management
-* Dashboard performance tuning
-* Stakeholder walkthroughs and knowledge transfer
-* Maintaining transparency and consistency in business logic across stakeholder and the Team
+* Business requirement analysis and stakeholder discussions.
+* Metrics identification, KPI definition, and validation.
+* SQL query development for data extraction from Azure SQL Database.
+* Power Query transformations and data preparation.
+* Data modeling and relationship design using a Hybrid Data Model.
+* DAX measure and calculation development.
+* Interactive dashboard and visualization development.
+* Dataflow implementation and scheduled refresh management.
+* Dashboard performance tuning and optimization.
+* Maintaining transparency and consistency in business logic across stakeholders and project teams.
+* Stakeholder walkthroughs, dashboard demonstrations, and knowledge transfer sessions.
 
 ---
 
