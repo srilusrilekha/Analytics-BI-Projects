@@ -45,9 +45,9 @@ Helps operations teams identify underperforming locations and prioritize improve
 
 ---
 
-## 5. BTS Daily Monitoring Report
+## 3. BTS Daily Monitoring Report
 
-**File:** `05_BTS_Daily_Report.png`
+**File:** `03_BTS_Daily_Report.png`
 
 ### Purpose
 
@@ -154,6 +154,8 @@ This capability reduces investigation time by allowing users to seamlessly trans
 * DAX
 * Data Modeling
 * Interactive Visualizations
+
+---
 
 ## **Confidentiality Notice:** 
 Client logos, sensitive operational data, and proprietary information have been intentionally obscured to protect client confidentiality. The dashboard screenshots are presented for portfolio purposes to showcase Power BI reporting, visualization, and analytics capabilities.
