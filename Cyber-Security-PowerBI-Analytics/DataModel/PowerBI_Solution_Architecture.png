@@ -1,0 +1,26 @@
+Amazon Redshift
+(Linked Layer)
+       │
+       ▼
+Power BI Desktop
+       │
+       ▼
+Power Query
+       │
+       ▼
+Star Schema
+       │
+       ▼
+DAX Measures
+       │
+       ▼
+Semantic Model
+       │
+       ▼
+Interactive Dashboards
+       │
+       ▼
+Power BI Service
+       │
+       ▼
+Business Users
