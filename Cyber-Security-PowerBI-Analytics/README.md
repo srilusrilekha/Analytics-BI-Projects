@@ -1,18 +1,10 @@
 # Enterprise Cyber Security Power BI Analytics
 
-An enterprise-grade Power BI reporting solution that transforms curated cybersecurity datasets into interactive dashboards, executive scorecards, and operational insights for governance, risk management, and security operations.
+## Project Overview
 
-The solution is built on top of a cloud-based AWS Data Engineering platform, providing a centralized semantic model and interactive analytics experience for business and technical stakeholders.
+This project delivers a centralized Power BI reporting solution designed to provide executive and operational visibility into enterprise cybersecurity metrics across governance, risk, compliance, vulnerability management, and security operations.
 
----
-
-## Executive Summary
-
-Enterprise cybersecurity data often originates from multiple operational systems, making it difficult to deliver consistent, trusted, and executive-ready reporting.
-
-This project demonstrates the Business Intelligence layer of an enterprise cybersecurity analytics platform. Using Power BI, Power Query, DAX, and a Star Schema semantic model, the solution transforms curated datasets into interactive dashboards that enable governance reporting, operational monitoring, KPI tracking, and executive decision-making.
-
-The reporting solution follows enterprise Power BI best practices by implementing reusable semantic models, centralized DAX measures, interactive filtering, and standardized visualization principles.
+The solution transforms curated datasets from an AWS-based cloud data platform into interactive dashboards, enabling stakeholders to monitor cyber posture, track KPIs, analyze trends, and support data-driven decision-making through a standardized reporting experience.
 
 ---
 
