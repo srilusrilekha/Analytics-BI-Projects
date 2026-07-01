@@ -197,7 +197,7 @@ End-to-end ownership of the Business Intelligence solution, including:
 
 ---
 
-# Business Impact
+## Business Impact
 
 The solution enables business and technical stakeholders to:
 
