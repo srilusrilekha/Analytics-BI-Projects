@@ -188,7 +188,7 @@ Responsibilities included:
 
 ---
 
-## Technologies Used
+## Technologies Stack
 
 * Power BI
 * Power Query
