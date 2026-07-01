@@ -119,26 +119,6 @@ Key use cases include:
 
 ---
 
-## Key Metrics
-
-### Governance & Compliance
-
-- Compliance Status
-- Policy Violations
-- Audit Metrics
-- Supplier Risk
-- Governance KPIs
-
-### Security Operations
-
-- Critical Vulnerabilities
-- SLA Compliance
-- Vulnerability Aging
-- Remediation Progress
-- Security Operations KPIs
-
----
-
 ## Dashboard Portfolio
 
 This repository showcases representative dashboards from the enterprise reporting solution.
